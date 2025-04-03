@@ -1,15 +1,17 @@
 {
-  "name": "GeotabMulteManager",
+  "name": "GestioneMulteAddin",
   "version": "1.0",
-  "pages": [
+  "supportEmail": "support@tuaazienda.com",
+  "isSigned": false,
+  "items": [
     {
-      "name": "Gestione Multe",
-      "url": "index.html",
+      "url": "https://frankjgesco.github.io/geotab-multe-manager/index.html",
+      "path": "ActivityLink/",
       "menuName": {
-        "en": "Gestione Multe"
+        "en": "Gestione Multe",
+        "it": "Gestione Multe"
       },
-      "icon": "https://cdn-icons-png.flaticon.com/512/684/684908.png",
-      "pageType": "MyGeotabPage"
+      "icon": "https://cdn-icons-png.flaticon.com/512/684/684908.png"
     }
   ]
 }
