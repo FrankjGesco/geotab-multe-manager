@@ -1,0 +1,15 @@
+{
+  "name": "GeotabMulteManager",
+  "version": "1.0",
+  "pages": [
+    {
+      "name": "Gestione Multe",
+      "url": "index.html",
+      "menuName": {
+        "en": "Gestione Multe"
+      },
+      "icon": "https://cdn-icons-png.flaticon.com/512/684/684908.png",
+      "pageType": "MyGeotabPage"
+    }
+  ]
+}
